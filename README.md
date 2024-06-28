@@ -8,7 +8,17 @@ seo:
   name: CS111M
 ---
 
-# CS111M Maurer Intensive Public Speaking Class, Spring 2025
+# CS111M Maurer Intensive Public Speaking Class
+## Spring 2025
+
+*Instructor:* Sohie Lee
+
+*Course Description:* This course...
+Mathematical Modeling (MM) distribution, but does not satisfy the lab requirement.
+
+*Prerequisites:* There are no courses required, however, students are expected to have this and that.
+
+*Course Grade:* This course is mandatory credit/non (CR/NON). 
 
 
 # orig just the class stuff below here, keeping for ref rn
