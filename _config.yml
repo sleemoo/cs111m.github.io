@@ -29,9 +29,9 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Sohie Lee:
-    - 'https://cs.wellesley.edu/~slee'
-  Wellesley CS Dept:
+  Gradescope:
+    - 'https://www.gradescope.com'
+  Feedback:
     - 'https://cs.wellesley.edu'
 footer_content:
 
