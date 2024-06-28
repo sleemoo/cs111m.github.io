@@ -13,12 +13,22 @@ seo:
 
 **Instructor:** Sohie Lee
 
-**Course Description:** This course...
-Mathematical Modeling (MM) distribution, but does not satisfy the lab requirement.
+**Course Description:** This course is Maurer Intensive Public
+  Speaking version of CS111 (the M is for Maurer). CS111M is an
+  introduction to problem solving through computer programming with
+  intensive public speaking woven throughout the course. Using the
+  Python programming language, students learn how to read, design,
+  debug and test algorithms that solve problems. With multiple
+  speaking assignments, students' public speaking skills will expand
+  and improve. This course counts for one Mathematical Modeling (MM)
+  distribution credit; it does *not* count as an MM laboratory unit.
 
-**Prerequisites:** There are no courses required, however, students are expected to have this and that.
+**Prerequisites:** None. Students should be comfortable with high-school-level geometry and algebra.
 
-**Course Grade:** This course is mandatory credit/non (CR/NON). 
+**Course Grade:** This course is mandatory credit/non (CR/NON). This
+  is the criteria to pass the class; this is the criteria to earn a
+  recommendation to take CS230, Data Structures, the subsequent class
+  in the CS major.
 
 
 # orig just the class stuff below here, keeping for ref rn
