@@ -20,6 +20,7 @@ author: Sohie Lee
 baseurl:   # the subpath of your site, e.g. /blog
 url: 'https://sleemoo.github.io/cs111m.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico: "/assets/images/favicon.ico"
+logo: "/asssets/images/mic.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
