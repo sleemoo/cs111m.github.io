@@ -1,9 +1,9 @@
 ---
 name: Sohie Lee
 role: Instructor
-email: 
+email: slee
 website: 
-photo: kevin.jpg
+photo: sohie.jpg
 meta:
   Office Hours: Who knows
 ---
