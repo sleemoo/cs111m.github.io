@@ -19,6 +19,7 @@ description: A modern, highly customizable, responsive Jekyll template for cours
 author: Sohie Lee
 baseurl:   # the subpath of your site, e.g. /blog
 url: 'https://sleemoo.github.io/cs111m.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+favicon_ico: "/assets/images/favicon.ico"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,10 +29,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Sohie Lee:
+    - 'https://cs.wellesley.edu/~slee'
+  Wellesley CS Dept:
+    - 'https://cs.wellesley.edu'
 footer_content:
 
 # Collections for website data
