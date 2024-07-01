@@ -8,7 +8,4 @@ has_toc: true
 nav_exclude: false
 ---
 
-# Weekly (parent/child model)
-# Change this to be a TOC of the weekly topics
-
 
