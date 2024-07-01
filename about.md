@@ -3,6 +3,7 @@ layout: page
 title: About
 description: >-
     Course policies and information.
+nav_order: 0
 ---
 
 # About
