@@ -29,7 +29,7 @@ Here is an important call out
 *  **Notes**{: .label .label-blue }[Lecture 01: Python](#)
 
 ## Lab
-: **Lab**{: .label .label-orange} [Resizing Arrays](#)
++ **Lab**{: .label .label-yellow} [Resizing Arrays](#)
 
 ## Resources
 
