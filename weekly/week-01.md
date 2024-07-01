@@ -30,6 +30,8 @@ Here is an important call out
 
 ## Lab
 + **Lab**{: .label .label-yellow} [Resizing Arrays](#)
++ **Lab**{: .label .label-orange} [Testing orange](#)
++ **Lab**{: .label .label-pink} [And pink](#)
 
 ## Resources
 

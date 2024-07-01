@@ -9,7 +9,7 @@ $link-color: $blue-000;
   text-transform: uppercase;
   vertical-align: middle;
   background-color: $blue-100;
-  opacity: 0.5;
+  opacity: 0.7;
   @include fs-2;
 
   border-radius: 12px;
@@ -17,30 +17,30 @@ $link-color: $blue-000;
 
 .label-green:not(g) {
     background-color: $green-200;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 .label-purple:not(g) {
     background-color: $purple-100;
-    opacity: 0.5;}
+    opacity: 0.7;}
 
 .label-red:not(g) {
     background-color: $red-200;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 .label-orange:not(g) {
     background-color: $orange-200;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 .label-pink:not(g) {
     background-color: $pink-200;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 .label-yellow:not(g) {
   color: $grey-dk-200;
   background-color: $yellow-200;
-  opacity: 0.5;
+  opacity: 0.7;
 }
