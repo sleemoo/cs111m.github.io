@@ -41,6 +41,8 @@ collections:
   staffers:
   schedules:
   modules:
+     nav_exclude: false
+     nav_fold: true
   announcements:
 # Default layouts for each collection type
 defaults:
