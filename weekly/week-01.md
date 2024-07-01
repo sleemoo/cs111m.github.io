@@ -3,7 +3,7 @@ title: Week 01 - Intro to Python and Tools
 parent: Week by Week
 nav_order: 1
 ---
-# Week 1: Overview: Public Speaking & Python
+# Week 1. Overview: Public Speaking & Python
 
 ## Learning Objectives:
 This week, you will learn
@@ -14,7 +14,7 @@ This week, you will learn
 
 ## Important Dates:
 * this date
-* this date, something is due
+*  **Section**{: .label .label-green }[Quiz 01](#)
 
 ## Lectures
 
