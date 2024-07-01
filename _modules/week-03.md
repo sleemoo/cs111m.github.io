@@ -1,7 +1,7 @@
 ---
-title: Week 02: Variables and Functions
+title: Week 03: More cool python + public speaking
 parent: Week by Week
-nav_order: 2
+nav_order: 3
 ---
 
 Oct 5
