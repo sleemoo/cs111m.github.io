@@ -1,5 +1,5 @@
 ---
-title: Week 02: Variables and Functions
+title: Week 02 - Variables and Functions
 parent: Modules
 nav_order: 2
 ---

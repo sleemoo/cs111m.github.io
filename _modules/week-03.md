@@ -1,5 +1,5 @@
 ---
-title: Week 03: More cool python + public speaking
+title: Week 03 - More cool python + public speaking
 parent: Modules
 nav_order: 3
 ---
