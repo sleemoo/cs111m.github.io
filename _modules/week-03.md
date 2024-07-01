@@ -1,9 +1,10 @@
 ---
 title: Week 03: More cool python + public speaking
-parent: Week by Week
+parent: Modules
 nav_order: 3
 ---
 
+# Week 3 content goes here
 Oct 5
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
