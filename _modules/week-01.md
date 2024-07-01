@@ -2,15 +2,15 @@
 title: Week 01
 ---
 
-[Tues] Jan 21
+Jan 21
 : [Java & Git](#)
   : [1.1](#)
 
-[Wed] Jan 22
+Jan 22
 : **Lab**{: .label .label-green }[Intro to Python + Tools](#)
   : [Solution](#)
 
-[Fri] Jan 24
+Jan 24
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
