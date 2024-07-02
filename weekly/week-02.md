@@ -1,5 +1,5 @@
 ---
-title: Week 02 - week two stuff
+title: Week 02 - Speaking about Python Variables
 parent: Week by Week
 nav_order: 2
 ---

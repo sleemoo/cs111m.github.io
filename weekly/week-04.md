@@ -1,5 +1,5 @@
 ---
-title: Week 04 - week four stuff
+title: Week 04 - Here we are, week 4!
 parent: Week by Week
 nav_order: 4
 ---
